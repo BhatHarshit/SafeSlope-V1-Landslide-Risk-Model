@@ -10,6 +10,21 @@ The project adopts a dual-model architecture:
 This repository represents the baseline implementation prior to hybrid model integration.
 
 ---
+## Contributors
+
+SafeSlope is a collaborative research-based project developed with clearly defined responsibilities.
+
+- Harshit Bhatt – Lead Developer  
+  Designed and implemented all machine learning models, including LSTM for rainfall trend prediction and DNN for landslide risk classification. Responsible for model architecture, coding, training, evaluation, and system integration.
+
+- Anjali Sharma – Research & Documentation Lead  
+  Conducted literature review, research analysis, model justification, performance interpretation, and complete project documentation. Contributed to problem formulation, result analysis, and research presentation.
+
+- Saumy Singh – Data Engineering & Preprocessing  
+  Handled data collection, extraction, cleaning, preprocessing, feature preparation, and dataset structuring for both rainfall and landslide datasets.
+
+Each contributor played a critical role in building SafeSlope Version-1.
+
 
 ## Problem Statement
 Landslides are complex natural disasters influenced by both dynamic environmental factors
