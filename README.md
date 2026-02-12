@@ -1,4 +1,4 @@
-# SafeSlope V1 – Dual-Model AI Framework for Landslide Risk Assessment
+# SafeSlope V1 – Dual-Model AI Framework for Landslide Risk Assessment (continue upgradation in  version 2)
 
 SafeSlope Version-1 is a research-based AI system designed to assess landslide risk by separating
 temporal rainfall triggers from spatial vulnerability patterns.
